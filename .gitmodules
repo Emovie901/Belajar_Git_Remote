@@ -1,3 +1,4 @@
 [submodule "librari"]
 	path = librari
 	url = git@github.com:Fadhilgva/Belajar_Git_Submodule.git
+	branch = release
